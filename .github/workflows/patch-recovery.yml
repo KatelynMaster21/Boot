@@ -1,6 +1,4 @@
 name: Patch recovery for fastbootd
-
-on:
   workflow_dispatch:
     inputs:
       model:
