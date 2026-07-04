@@ -1,5 +1,4 @@
 name: Patch recovery for fastbootd
-  workflow_dispatch:
     inputs:
       model:
         description: 'Your Model Number'
