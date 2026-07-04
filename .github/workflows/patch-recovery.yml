@@ -1,9 +1,5 @@
 name: Patch recovery for fastbootd
 
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24 
-
 on:
   workflow_dispatch:
     inputs:
